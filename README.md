@@ -47,7 +47,7 @@ This repository is created for the **purpose of sharing my Ansible study notes a
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
