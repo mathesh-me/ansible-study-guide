@@ -38,7 +38,7 @@ This repository is created for the purpose of sharing my Ansible study notes and
 - `VirtualBox` for creating Virtual Machines
 - `Ansible` for Configuration Management
 - `HAProxy` for Load Balancer
-- Master Node and Slave Nodes are `Ubuntu 20.04`
+- Master Node and Slave Nodes are `Ubuntu 20.04` 
 
 ## License
 
@@ -46,4 +46,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contributing
 
-If you find any mistakes in the notes or have any suggestions, feel free to create an issue or pull request. I will be happy to review and merge them. You can also create a PR to add your notes or resources to this repository.
+If you find any mistakes in the notes or have any suggestions, feel free to create an issue or pull request. I will be happy to review and merge them. You can also **create a PR to add your notes or resources** to this repository.
