@@ -1,6 +1,12 @@
 # Ansible Study Preparation Repository
 
-This repository is created for the purpose of sharing my Ansible study notes and resources. I will be updating this repository with the notes, examples, and resources that I am preparing for the Ansible study. This repository will also conatin projects I'm working on to practice Ansible.
+This repository is created for the purpose of sharing my Ansible study notes and resources. I will be updating this repository with the notes, examples, and resources that I am preparing for the Ansible study. This repository will also conatin projects I'm working on to practice Ansible. You can find the notes in the `notes` directory. Each note will have a separate markdown file with the content. I will also try to official documentation link for each topic.
+
+<p align="center">
+    <img src="https://github.com/mathesh-me/ansible-study-guide/assets/144098846/62f4fb93-31a4-4ece-9583-1d5c8289779a" alt="ansible" />
+</p>
+
+
 
 ## Table of Contents
 
@@ -46,4 +52,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contributing
 
-If you find any mistakes in the notes or have any suggestions, feel free to create an issue or pull request. I will be happy to review and merge them. You can also **create a PR to add your notes or resources** to this repository.
+If you find any mistakes in the notes or have any suggestions, feel free to create an issue or pull request. I will be happy to review and merge them. You can also create a PR to add your notes or resources to this repository.
